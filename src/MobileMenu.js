@@ -11,10 +11,10 @@ const MobileMenu = () => {
     return ( 
         <div className="slide-menu mobile" >
         <div className="nav-link" >
-            <Link to="/victorukwuezeh"onClick={()=>setShowMobileMenu(false)}>Home</Link>
-            <Link to="/profile"onClick={()=>setShowMobileMenu(false)}>About Me</Link>
-            <Link to="/skills"onClick={()=>setShowMobileMenu(false)}>Skill</Link>
-            <Link to="/project"onClick={()=>setShowMobileMenu(false)}>Projects</Link>
+            <Link to="/victorukwuezeh/"onClick={()=>setShowMobileMenu(false)}>Home</Link>
+            <Link to="/victorukwuezeh/profile"onClick={()=>setShowMobileMenu(false)}>About Me</Link>
+            <Link to="/victorukwuezeh/skills"onClick={()=>setShowMobileMenu(false)}>Skill</Link>
+            <Link to="/victorukwuezeh/project"onClick={()=>setShowMobileMenu(false)}>Projects</Link>
             <a  id="hireMe" className="hireMe" onClick={()=>setShowPopup(true)}>Hire Me</a>
 
             <div className="contacts-menu">

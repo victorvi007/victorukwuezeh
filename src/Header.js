@@ -15,7 +15,7 @@ const Header = ({state}) => {
         {showMobileMenu && <MobileMenu/>}
         <header>
         <div className="logo">
-            <h2> <Link to="/victorukwuezeh">Victor Ukwuezeh</Link></h2>
+            <h2> <Link to="/victorukwuezeh/">Victor Ukwuezeh</Link></h2>
         </div>
 
         <div className="harmbuger">
@@ -28,10 +28,10 @@ const Header = ({state}) => {
         </div>
         <div className="nav desktop">
             <ul className="nav-list">
-                <li> <Link to="/victorukwuezeh">Home</Link> </li>
-                <li> <Link to="/profile">About Me</Link> </li>
-                <li> <Link to="/skills">Skills</Link> </li>
-                <li> <Link to="/project">Project</Link> </li>
+                <li> <Link to="/victorukwuezeh/">Home</Link> </li>
+                <li> <Link to="/victorukwuezeh/profile">About Me</Link> </li>
+                <li> <Link to="/victorukwuezeh/skills">Skills</Link> </li>
+                <li> <Link to="/victorukwuezeh/project">Project</Link> </li>
                 <li> <a href="#" id="hireMe" className="hireMe" onClick={()=>state(true)}>Hire Me</a></li>
             </ul>
         </div>
