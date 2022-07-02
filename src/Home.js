@@ -11,7 +11,7 @@ const Home = () => {
                 <h2>Victor,</h2>
                 <p>Fullstack Web Developer, Programmer & Freelancer</p>
                 <p>Welcome To My Website Portfolio</p>
-                    <a  id="hireMe" className="btn hireMe" onClick={()=>setShowPopup(true)}>Hire Me</a>
+                    <a href="#" id="hireMe" className="btn hireMe" onClick={()=>setShowPopup(true)}>Hire Me</a>
             
             </div>
             <blockquote>

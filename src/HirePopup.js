@@ -1,11 +1,10 @@
-import { useState } from 'react';
 import gmailIcon from './icons/icons8-gmail.svg';
 import whatsappIcon from './icons/icons8-whatsapp.svg';
 import twitterIcon from './icons/icons8-twitter.svg';
 import linkedinIcon from './icons/iconfinder_square-linkedin_317725.svg';
 import cancelIcon from './icons/times-solid.svg';
 const HirePopup = ({state}) => {
-    const [showPopup,setShowPopup] = useState(false);
+    
     return ( 
       
         <div className="hireMePopUp" id="hireMePopUp" >

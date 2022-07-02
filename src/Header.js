@@ -3,7 +3,6 @@ import { useState } from 'react';
 import MobileMenu from './MobileMenu';
 const Header = ({state}) => {
     const [showMobileMenu,setShowMobileMenu] = useState(false);
-    const [showPopup,setShowPopup] = useState(false);
 
     const showMenu = ()=>{
         setShowMobileMenu(true);
@@ -16,7 +15,7 @@ const Header = ({state}) => {
         {showMobileMenu && <MobileMenu/>}
         <header>
         <div className="logo">
-            <h2> <Link to="/">Victor Ukwuezeh</Link></h2>
+            <h2> <Link to="/victorukwuezeh">Victor Ukwuezeh</Link></h2>
         </div>
 
         <div className="harmbuger">
@@ -29,11 +28,11 @@ const Header = ({state}) => {
         </div>
         <div className="nav desktop">
             <ul className="nav-list">
-                <li> <Link to="/">Home</Link> </li>
+                <li> <Link to="/victorukwuezeh">Home</Link> </li>
                 <li> <Link to="/profile">About Me</Link> </li>
                 <li> <Link to="/skills">Skills</Link> </li>
                 <li> <Link to="/project">Project</Link> </li>
-                <li> <a  id="hireMe" className="hireMe" onClick={()=>state(true)}>Hire Me</a></li>
+                <li> <a href="#" id="hireMe" className="hireMe" onClick={()=>state(true)}>Hire Me</a></li>
             </ul>
         </div>
     </header>

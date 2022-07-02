@@ -60,7 +60,7 @@ const Profile = () => {
                                 developer, and in my leisure time, I like building my own programming projects.
                             </p>
                             <h3>
-                                <a  className="hireMe" onClick={()=>setShowPopup(true)}>Hire Me</a>
+                                <a href="#" className="hireMe" onClick={()=>setShowPopup(true)}>Hire Me</a>
                             </h3>
                         </div>
                     </div>

@@ -11,7 +11,7 @@ const MobileMenu = () => {
     return ( 
         <div className="slide-menu mobile" >
         <div className="nav-link" >
-            <Link to="/"onClick={()=>setShowMobileMenu(false)}>Home</Link>
+            <Link to="/victorukwuezeh"onClick={()=>setShowMobileMenu(false)}>Home</Link>
             <Link to="/profile"onClick={()=>setShowMobileMenu(false)}>About Me</Link>
             <Link to="/skills"onClick={()=>setShowMobileMenu(false)}>Skill</Link>
             <Link to="/project"onClick={()=>setShowMobileMenu(false)}>Projects</Link>
