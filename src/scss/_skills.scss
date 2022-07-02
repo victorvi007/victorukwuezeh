@@ -1,0 +1,74 @@
+.skills{
+    display: flex;
+    justify-content: center;
+    .board{
+        display:flex;
+        background:rgba(63, 62, 62, 0.785);
+        width:80%;
+        height:80vh;
+        max-height: 80vh;
+        border:5px solid rgba(63, 62, 62, 0.881);
+        position: relative;
+
+        
+        
+   
+        .buttons{
+            width:40%;
+            padding:10px;
+            display:flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            
+            .btn{
+                background:$primary;
+                color:$light;
+                text-align: center;
+                padding:15px 5px;
+                border-radius: 5px;
+                cursor: pointer;
+            }
+
+            .btn:hover{
+                background:darken($primary,10%);
+            }
+        }
+
+        .screen{
+            width:60%;
+            padding:10px;
+            overflow-y: auto;
+            z-index:3;
+            
+                .designs,.Frontend,.backend{
+
+                    h2,h3{
+                        font-size: 2em;
+        
+        
+                    }
+        
+                    h2{
+                        height:2em;
+                        margin:5px;
+        
+                        
+                        i{
+                          font-size: 2em;
+                          color:$primary;
+                        }
+                    }
+        
+                    P{
+                        text-indent: 30px;
+                        margin:10px 0px;
+                    }
+                }
+
+
+         
+        }
+
+       
+    }
+}

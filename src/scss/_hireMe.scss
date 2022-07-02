@@ -1,0 +1,101 @@
+.hireMePopUp{
+    width:100vw;
+    height:100vh;
+    z-index:200;
+    background: rgba(63, 62, 62, 0.76);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    // opacity: 0;
+    
+
+    .popUp{
+            display: flex;
+            justify-content:center;
+            align-items: center;
+            box-shadow: 0px 0px 10px $primary-shadow;
+            background: rgb(63, 62, 62);
+            position: relative;
+            height:40%;
+            width:100%;
+            position: relative;
+
+            p{
+                display: inline-block;
+                box-shadow: 0px 0px 10px $primary-shadow;
+                background:$light;
+                position: absolute;
+                top:0px;
+                right:0px;
+                height:50px;
+                width:50px;
+                cursor: pointer;
+                img{
+                    width:100%;
+                    height:100%;
+                }
+            }
+
+
+
+        .contacts-popUp{
+            justify-content: space-around;
+            position: relative;
+            display:flex;
+            // align-items: center;
+            // border:1px solid red;
+            width:95%;
+            // height:100%;
+
+            a{
+                text-decoration: none;
+                display:inline-block;
+                // border:1px solid blue;
+                width:4rem;
+                height:4rem;
+                
+
+                img{
+                    width:100%;
+                    height:100%;
+                }
+            }
+        }
+    }
+}
+
+@media(min-width:768px){
+    .hireMePopUp{
+        .popUp{
+                width:90%;
+        }
+    }
+}
+
+
+@media(min-width:992px){
+    .hireMePopUp{
+        .popUp{
+            height:60%;
+
+                p{
+                    height:50px;
+                    width:50px;
+                    cursor: pointer;
+                }
+            .contacts-popUp{
+                a{
+                    width:7rem;
+                    height:7rem;
+    
+                }
+            }
+        }
+    }
+    
+}
+
+@media(min-width:1400px) {
+
+}
