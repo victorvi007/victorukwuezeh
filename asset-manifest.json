@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/victorukwuezeh/static/css/main.b6a1e019.css",
+    "main.js": "/victorukwuezeh/static/js/main.11ea0453.js",
+    "static/js/787.a2cb61a6.chunk.js": "/victorukwuezeh/static/js/787.a2cb61a6.chunk.js",
+    "static/media/quoteApp.png": "/victorukwuezeh/static/media/quoteApp.11b810787118a35cc441.png",
+    "static/media/movieSearchEngin.png": "/victorukwuezeh/static/media/movieSearchEngin.4efc66047bcb69e7f046.png",
+    "static/media/digitalClock.png": "/victorukwuezeh/static/media/digitalClock.0ae301c530c81551eea9.png",
+    "static/media/country-search.png": "/victorukwuezeh/static/media/country-search.31815ea2e1b0b8f7d60e.png",
+    "static/media/avater-2.jpg": "/victorukwuezeh/static/media/avater-2.582e67bc11cd24034ec6.jpg",
+    "static/media/todoList.png": "/victorukwuezeh/static/media/todoList.acd32ec16c1b49d03c80.png",
+    "static/media/portfolio.png": "/victorukwuezeh/static/media/portfolio.2d150eba122d55ba24b1.png",
+    "static/media/wallpaper.jpg": "/victorukwuezeh/static/media/wallpaper.b3c1f76650c72f7404d3.jpg",
+    "static/media/calculator.png": "/victorukwuezeh/static/media/calculator.26c853b2e3a48cfc07b8.png",
+    "static/media/icons8-whatsapp.svg": "/victorukwuezeh/static/media/icons8-whatsapp.d2e7eb22292998edd62343da1fb7573d.svg",
+    "static/media/icons8-twitter.svg": "/victorukwuezeh/static/media/icons8-twitter.11ac2ffb619f528ee15304f0b8881bad.svg",
+    "static/media/iconfinder_square-linkedin_317725.svg": "/victorukwuezeh/static/media/iconfinder_square-linkedin_317725.fd9e42980a314c0ab7ddcc9967529150.svg",
+    "static/media/times-solid.svg": "/victorukwuezeh/static/media/times-solid.ea7c95d7120c0efcb4b16602bf9049a5.svg",
+    "static/media/icons8-gmail.svg": "/victorukwuezeh/static/media/icons8-gmail.dd4ed1b1649b41d917d06d1d4f34aeb0.svg",
+    "index.html": "/victorukwuezeh/index.html",
+    "main.b6a1e019.css.map": "/victorukwuezeh/static/css/main.b6a1e019.css.map",
+    "main.11ea0453.js.map": "/victorukwuezeh/static/js/main.11ea0453.js.map",
+    "787.a2cb61a6.chunk.js.map": "/victorukwuezeh/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a1e019.css",
+    "static/js/main.11ea0453.js"
+  ]
+}
