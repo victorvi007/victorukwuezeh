@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/victorukwuezeh/static/css/main.b6a1e019.css",
-    "main.js": "/victorukwuezeh/static/js/main.7b6a070b.js",
+    "main.css": "/victorukwuezeh/static/css/main.97f309d7.css",
+    "main.js": "/victorukwuezeh/static/js/main.ff65ad35.js",
     "static/js/787.a2cb61a6.chunk.js": "/victorukwuezeh/static/js/787.a2cb61a6.chunk.js",
     "static/media/quoteApp.png": "/victorukwuezeh/static/media/quoteApp.11b810787118a35cc441.png",
     "static/media/movieSearchEngin.png": "/victorukwuezeh/static/media/movieSearchEngin.4efc66047bcb69e7f046.png",
@@ -18,12 +18,12 @@
     "static/media/times-solid.svg": "/victorukwuezeh/static/media/times-solid.ea7c95d7120c0efcb4b16602bf9049a5.svg",
     "static/media/icons8-gmail.svg": "/victorukwuezeh/static/media/icons8-gmail.dd4ed1b1649b41d917d06d1d4f34aeb0.svg",
     "index.html": "/victorukwuezeh/index.html",
-    "main.b6a1e019.css.map": "/victorukwuezeh/static/css/main.b6a1e019.css.map",
-    "main.7b6a070b.js.map": "/victorukwuezeh/static/js/main.7b6a070b.js.map",
+    "main.97f309d7.css.map": "/victorukwuezeh/static/css/main.97f309d7.css.map",
+    "main.ff65ad35.js.map": "/victorukwuezeh/static/js/main.ff65ad35.js.map",
     "787.a2cb61a6.chunk.js.map": "/victorukwuezeh/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6a1e019.css",
-    "static/js/main.7b6a070b.js"
+    "static/css/main.97f309d7.css",
+    "static/js/main.ff65ad35.js"
   ]
 }
